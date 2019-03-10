@@ -2,7 +2,7 @@
 # GitHub            : https://www.github.com/kodeutility
 # Portfolio website : https://kodeutility.github.io/
 # Author            : Kiran BG
-#Question link      : https://www.codechef.com/problems/HS08TEST
+# Question link     : https://www.codechef.com/problems/HS08TEST
 
 withdrawal_amount, balance = (map(float,input().split()))
 

@@ -2,7 +2,7 @@
 # GitHub            : https://www.github.com/kodeutility
 # Portfolio website : https://kodeutility.github.io/
 # Author            : Kiran BG
-#Question link      : https://www.codechef.com/problems/FLOW018
+# Question link     : https://www.codechef.com/problems/FLOW018
 
 for _ in range(int(input())):
     number = int(input())

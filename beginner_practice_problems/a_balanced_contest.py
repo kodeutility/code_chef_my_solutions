@@ -2,7 +2,7 @@
 # GitHub            : https://www.github.com/kodeutility
 # Portfolio website : https://kodeutility.github.io/
 # Author            : Kiran BG
-#Question link      : https://www.codechef.com/problems/PERFCONT
+# Question link     : https://www.codechef.com/problems/PERFCONT
 
 for _ in range(int(input())):
     n_problems, n_participants  = (map(int,input().split()))
