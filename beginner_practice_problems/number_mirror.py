@@ -4,6 +4,4 @@
 # Author            : Kiran BG
 #Question link      : https://www.codechef.com/problems/START01
 
-if __name__ == '__main__':
-
-    print(int(input()))
+print(int(input()))

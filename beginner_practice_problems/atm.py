@@ -4,12 +4,11 @@
 # Author            : Kiran BG
 #Question link      : https://www.codechef.com/problems/HS08TEST
 
-if __name__ == '__main__':
-    withdrawal_amount, balance = (map(float,input().split()))
+withdrawal_amount, balance = (map(float,input().split()))
 
-    if (withdrawal_amount > (balance-0.5)):
-        print(balance)
-    elif withdrawal_amount%5 != 0:
-        print(balance)
-    else :
-        print(balance-withdrawal_amount-0.5)
+if (withdrawal_amount > (balance-0.5)):
+    print(balance)
+elif withdrawal_amount%5 != 0:
+    print(balance)
+else :
+    print(balance-withdrawal_amount-0.5)
